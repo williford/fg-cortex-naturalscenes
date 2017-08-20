@@ -1,0 +1,7 @@
+"column","description"
+"cellid","The ID of the cell. First two numbers indicate the monkey. The next two letters are assigned for a given electrode position along the cortical surface (ignores depth). The number indicates the recording channel. The last letter differentiates the cells that were recorded."
+"rep","Increments for each batch of stimuli presentations."
+"SpikeTime","Timing of spike or end-of-trial marker, relative to the onset of the stimulus (ms)."
+"Event","Event - either ""TrialEnd"" marker or ""Spike""."
+"cmd_item","An ID for the ""command item"", which gives the variables for a given stimulus."
+"Presentation_ID","An ID for a specific presentation of the stimulus. Use this to match up spikes with the spike counts (for parameters)."

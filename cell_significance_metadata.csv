@@ -1,0 +1,8 @@
+"column","description"
+"cellid","The ID of the cell. First two numbers indicate the monkey. The next two letters are assigned for a given electrode position along the cortical surface (ignores depth). The number indicates the recording channel. The last letter differentiates the cells that were recorded."
+"std.square.bo.sig","Significant border-ownership signal with standard square border-ownership test (p<0.01)"
+"nat.full.bo.sig","Significant border-ownership signal with full image displays (p<0.01)"
+"nat.patch.bo.sig","Significant border-ownership signal with image patch displays (p<0.01)"
+"nat.context.bo.sig","Significant border-ownership signal with decomposed natural scenes context (p<0.01)"
+"std.nat.context.bo.sig","Significant border-ownership signal with both standard test and decomposed natural scenes context (p<0.01)"
+"std.nat.context.bo.sig.consistent","Significant and consistent border-ownership signal with both standard test and decomposed natural scenes context (p<0.01)"
